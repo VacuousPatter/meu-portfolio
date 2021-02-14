@@ -1,0 +1,27 @@
+[
+    {
+        "id": "e-commerce",
+        "name": "E-Commerces",
+        "description": "Site para a venda de produtos."
+    },
+    {
+        "id": "Blog",
+        "name": "Blogs",
+        "description": "Site para publicar artigos."
+    },
+    {
+        "id": "forum",
+        "name": "Fóruns",
+        "description": "Site para sua comunidade debater certos assuntos."
+    },
+    {
+        "id": "bot-discord",
+        "name": "Bot Discord",
+        "description": "Dê uma identidade única em seu servidor com um bot própio."
+    },
+    {
+        "id": "web-scraping",
+        "name": "Web Scraping",
+        "description": "Colete dados de sites diversos."
+    }
+]

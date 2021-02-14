@@ -1,0 +1,37 @@
+[
+    {
+        "name":"Linguagens",
+        "values":[
+            {"name":"Javascript/Node.js","value":100},
+            {"name":"HTML 5","value":90},
+            {"name":"Typescript","value":85},
+            {"name":"CSS 3","value":75}
+        ]
+    },
+    {
+        "name":"Bibliotecas CSS",
+        "values":[
+            {"name":"Bootstrap","value":100},
+            {"name":"Vuetify","value":100},
+            {"name":"Materialize CSS","value":90},
+            {"name":"Vue Bootstrap","value":80}
+        ]
+    },
+     {
+        "name":"Frameworks Front-End",
+        "values":[
+            {"name":"Vue.js","value":90},
+            {"name":"Nuxt.js","value":80},
+            {"name":"Angular","value":10},
+            {"name":"React","value":10}
+        ]
+    },
+    {
+        "name":"Banco de Dados",
+        "values":[
+            {"name":"MYSQL","value":80},
+            {"name":"PostgreSQL","value":75},
+            {"name":"MongoDB","value":60}
+        ]
+    }
+]

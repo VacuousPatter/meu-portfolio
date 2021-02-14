@@ -1,0 +1,40 @@
+{
+    "socialNetworks": [
+        {
+            "name": "Instagram",
+            "username":"maycon072003",
+            "url": "https://www.instagram.com/maycon072003/",
+            "icon": "instagram"
+        },
+        {
+            "name": "Twitter",
+            "username":"vacuouspatter",
+            "url": "https://twitter.com/vacuouspatter",
+            "icon": "twitter"
+        },
+        {
+            "name": "Github",
+            "username":"VacuousPatter",
+            "url": "https://github.com/VacuousPatter",
+            "icon": "Github"
+        },
+        {
+            "name": "Linkedin",
+            "username":"N/A",
+            "url": "#",
+            "icon": "linkedin"
+        }
+    ],
+    "directContact": [
+        {
+            "name":"E-Mail",
+            "username":"mayconjesus07@gmail.com",
+            "icon":"envelope-fill"
+        },
+        {
+            "name":"Telefone/Whatsapp",
+            "username":"+55 31 99746-6833",
+            "icon":"telephone-fill"
+        }
+    ]
+}

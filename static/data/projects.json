@@ -1,0 +1,21 @@
+[
+    {
+        "id":"meu-portfolio",
+        "name":"Meu Portfólio",
+        "tags":["vue.js","nuxt.js"],
+        "description":"Um portfólio desenvolvido para mim mostrar meus trabalhos e ter todos o meus contatos em um único lugar.",
+        "links":[
+            {
+                "name":"Github",
+                "url":"https://github.com/VacuousPatter/meu-portfolio",
+                "icon":"github"
+            },
+            {
+                "name":"Website",
+                "url":"/",
+                "icon":"globe"
+            }
+        ],
+        "image":"https://i.imgur.com/VVFUJyG.png"
+    }
+]

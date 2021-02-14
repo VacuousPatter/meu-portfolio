@@ -1,0 +1,36 @@
+{
+    "categories":[
+        {
+            "id":"e-commerce",
+            "name":"E-Commerce"
+        },
+        {
+            "id":"blog",
+            "name":"Blog"
+        },
+        {
+            "id":"forum",
+            "name":"Fórum"
+        },
+        {
+            "id":"bot-discord",
+            "name":"Bot Discord"
+        },
+        {
+            "id":"web-scraping",
+            "name":"Web Scraping"
+        }
+    ],
+    "technologies":[{
+        "id":"vue.js",
+        "name":"Vue.js"
+    },
+    {
+        "id":"nuxt.js",
+        "name":"Nuxt.js"
+    },
+    {
+        "id":"node.js",
+        "name":"Node.js"
+    }]
+}
